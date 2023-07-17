@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+body {
+  margin: 8px;
+  background-color: lightblue;
+}
+
+#testP {
+  padding: 10px;
+  color: green;
+}
+
+#mainHeading {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: red;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: black;
+  background-color: grey;
+}
+
+h3 {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: black;
+  background-color: grey;
+}
+
+.funParagraph {
+  color: green;
+}
+
+p {
+  margin-bottom: 15px;
+  color: black;
+}
